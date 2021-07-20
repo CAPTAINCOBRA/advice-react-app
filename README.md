@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# advice-react-app
+
+### `Uses the Advice Slip API to generate Random Quotes to the user with a button click`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
